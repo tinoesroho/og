@@ -281,12 +281,14 @@ a.parent-comment-link {
 	border-color: rgb(101, 229, 120); 
 	border-width: 3px; 
 	border-style: solid;	
-    width: 400px; 
+    width: 200px; 
 }
 
-.parent-comment-tooltip > img {
+.parent-comment-tooltip .img {
 	width: 32px; 
-	height: 32px; 
+	height: 32px;
+	max-width: 32px;
+	max-height: 32px;
 	position: relative; 
 	display: block; 
 	float: left; 
