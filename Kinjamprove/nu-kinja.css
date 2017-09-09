@@ -239,3 +239,11 @@ p
   text-rendering: optimizeLegibility;
   line-height: 22px !important;
 }
+
+.reply--depth-1 {
+	padding: 20px 40px;
+}
+
+.reply--depth-2 {
+	padding: 20px 60px;
+}
