@@ -281,7 +281,8 @@ a.parent-comment-link {
 	border-color: rgb(101, 229, 120); 
 	border-width: 3px; 
 	border-style: solid;	
-    width: 200px; 
+    width: 200px;
+	height: 50px;
 }
 
 .parent-comment-tooltip .img {
