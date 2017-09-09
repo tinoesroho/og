@@ -281,7 +281,7 @@ a.parent-comment-link {
 	border-color: rgb(101, 229, 120); 
 	border-width: 3px; 
 	border-style: solid;	
-    width: 220px; 
+    width: 400px; 
 }
 
 .parent-comment-tooltip > img {
@@ -320,8 +320,14 @@ a.parent-comment-link {
 
 .reply--depth-1 {
 	padding: 20px 40px;
+	margin-left: 48px !important;
 }
 
 .reply--depth-2 {
 	padding: 20px 60px;
+	margin-left: 96px !important;
+}
+.reply--depth-3 {
+	padding: 20px 80px;
+	margin-left: 144px !important;
 }
