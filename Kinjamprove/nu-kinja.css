@@ -247,3 +247,22 @@ p
 .reply--depth-2 {
 	padding: 20px 60px;
 }
+
+section.js_discussion-region[kinjamprove="on"] article[depth] {
+	margin-left: 192px !important;
+}
+section.js_discussion-region[kinjamprove="on"] article[depth="0"] {
+	margin-left: 0px !important;
+}
+section.js_discussion-region[kinjamprove="on"] article[depth="1"] {
+	margin-left: 48px !important;
+}
+section.js_discussion-region[kinjamprove="on"] article[depth="2"] {
+	margin-left: 96px !important;
+}
+section.js_discussion-region[kinjamprove="on"] article[depth="3"] {
+	margin-left: 144px !important;
+}
+section.js_discussion-region[kinjamprove="on"] article[depth="4"] {
+	margin-left: 192px !important;
+}
