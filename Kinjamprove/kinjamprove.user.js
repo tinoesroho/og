@@ -3,11 +3,11 @@
 // @version       2017.09.09
 // @namespace     Kinjamprove
 // @description	  Kinjamprove, now as a userscript!
-// @require       https://cdn.rawgit.com/tylerSmithTSS/kinjamprove/master/Kinjamprove/CommentClass.js
-// @require       https://raw.githubusercontent.com/tylerSmithTSS/kinjamprove/master/Kinjamprove/mutation-summary-minified.js
+// @require       https://cdn.rawgit.com/tinoesroho/kinjamprove/master/Kinjamprove/CommentClass.js
+// @require       https://cdn.rawgit.com/tinoesroho/kinjamprove/master/Kinjamprove/mutation-summary-minified.js
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// @resource comments_style http://cdn.rawgit.com/tylerSmithTSS/kinjamprove/master/Kinjamprove/comments.css
-// @homepage      http://github.com/tinoesroho/kinjamprove/
+// @resource comments_style https://cdn.rawgit.com/tinoesroho/kinjamprove/master/Kinjamprove/comments.css
+// @homepage      https://github.com/tinoesroho/kinjamprove/
 // @include       http://gawker.com/*
 // @include       https://gawker.com/*
 // @include       http://*.gawker.com/*
