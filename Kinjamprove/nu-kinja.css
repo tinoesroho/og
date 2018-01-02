@@ -229,6 +229,9 @@ div.excerpt.entry-summary p
   body, .notif-list li .msg-excerpt, .editor .editor-inner blockquote, .editor .editor-inner dl, .editor .editor-inner ol, .editor .editor-inner p, .editor .editor-inner ul, .post-content blockquote, .post-content dl, .post-content ol, .post-content p, .post-content ul {
 font-family: KhmerUI, Arial !important;
 }
+. scribe {
+width: 100%;
+}
 
 p
 {
