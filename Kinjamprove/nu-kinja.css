@@ -112,6 +112,12 @@ h1, h2, h3, h4
   // border: 0px !important;
 }
 
+.f_use_dap_on .editor .editor-inner aside.align--right, .f_use_dap_on .editor .editor-inner figure.align--right, .f_use_dap_on .editor .editor-inner p.align--right, .f_use_dap_on .post-content aside.align--right, .f_use_dap_on .post-content figure.align--right, .f_use_dap_on .post-content p.align--right {
+    float: left !important;
+    margin: 0.5rem 0 2rem 1.125rem;
+    clear: right;
+}
+
 .editor .editor-inner blockquote, .editor .editor-inner dl, .editor .editor-inner ol, .editor .editor-inner p, .editor .editor-inner ul, .post-content blockquote, .post-content dl, .post-content ol, .post-content p, .post-content ul
 {
   font-family: 'KhmerUI',Helvetica !important;
