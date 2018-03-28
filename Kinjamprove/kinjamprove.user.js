@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Kinjamprove
-// @version       2017.09.09
+// @version       2018.03.27
 // @namespace     Kinjamprove
 // @description	  Kinjamprove, now as a userscript!
 // @require       https://cdn.rawgit.com/tinoesroho/kinjamprove/master/Kinjamprove/CommentClass.js
@@ -440,3 +440,17 @@ function pendingDiscussionFilterOnClick() {
 	} // end of clickShowPendingOnAvailable function
 	
 } // end of pendingDiscussionFilterOnClick function	
+
+function addStyleSheet(style){
+  var getHead = document.getElementsByTagName("HEAD")[0];
+  var cssNode = window.document.createElement( 'style' );
+  var elementStyle= getHead.appendChild(cssNode);
+  elementStyle.innerHTML = style;
+  return elementStyle;
+}
+
+window.addEventListener('load', function() {
+addStyleSheet('@import "https://cdn.rawgit.com/tylerSmithTSS/kinjamprove/14b8d4b2/Kinjamprove/comments.css";'); 
+})
+
+addStyleSheet('@import "https://cdn.rawgit.com/tylerSmithTSS/kinjamprove/14b8d4b2/Kinjamprove/comments.css";'); 
