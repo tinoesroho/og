@@ -229,6 +229,10 @@ div.excerpt.entry-summary p
 }
 
 /* end sidebar */
+
+.slideshow-inset js_slideshow align--bleed {
+max-width: 800px;
+}
 .post-list--pe
 {
   margin-right: 10%;
