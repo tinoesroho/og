@@ -229,8 +229,7 @@ div.excerpt.entry-summary p
 }
 
 /* end sidebar */
-
-.slideshow-inset js_slideshow align--bleed {
+.slideshow-inset {
 max-width: 800px;
 }
 .post-list--pe
