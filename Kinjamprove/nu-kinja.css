@@ -229,7 +229,7 @@ div.excerpt.entry-summary p
 }
 
 /* end sidebar */
-.slideshow-inset, .kinja-slide__inner {
+.slideshow-inset, .kinja-slide__inner, .kinja-slide__image {
 max-width: 800px;
 }
 .post-list--pe
