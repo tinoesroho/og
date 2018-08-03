@@ -18,7 +18,6 @@
 @include theroot.com
 @include thetakeout.com
 @include theinventory.com
-@var theme-color 'Pick a color' #000
 ==/UserStyle== */
 head,
 body {
