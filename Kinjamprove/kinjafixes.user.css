@@ -1,4 +1,3 @@
-@-moz-document domain("avclub.com"), domain("clickhole.com"), domain("deadspin.com"), domain("gizmodo.com"), domain("jalopnik.com"), domain("jezebel.com"), domain("kinja.com"), domain("kotaku.com"), domain("lifehacker.com"), domain("splinternews.com"), domain("theonion.com"), domain("theroot.com"), domain("thetakeout.com"), domain("theinventory.com") {
 /* ==UserStyle==
 @name Kinja Fixes by 19b4
 @namespace kinja-fixes-by-19b4
@@ -19,6 +18,7 @@
 @include thetakeout.com
 @include theinventory.com
 ==/UserStyle== */
+@-moz-document domain("avclub.com"), domain("clickhole.com"), domain("deadspin.com"), domain("gizmodo.com"), domain("jalopnik.com"), domain("jezebel.com"), domain("kinja.com"), domain("kotaku.com"), domain("lifehacker.com"), domain("splinternews.com"), domain("theonion.com"), domain("theroot.com"), domain("thetakeout.com"), domain("theinventory.com") {
 head,
 body {
     overflow-x: hidden;
