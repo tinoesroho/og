@@ -1,3 +1,18 @@
+# Kinjamprove - Userscript Edition!
+
+Features:
+
+• Always up to date!
+
+• Works on ANY Greasemonkey-equipped browser (Also: Tampermonkey, Violentmonkey)
+
+
+## Click to install
+
+https://github.com/tinoesroho/kinjamprove/raw/master/Kinjamprove/kinjamprove.user.js
+
+---
+
 # kinjamprove
 View any Kinja comments sections with threaded replies & other improvements at the click of a button. Never click "Show More" again!
 Adds a 'Kinjamprove!' button to the top of every Kinja comments section. This button:
